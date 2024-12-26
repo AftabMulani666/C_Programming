@@ -20,5 +20,5 @@ int main()
     getch();
     return 0;
 }
-
+//Thanks
 
