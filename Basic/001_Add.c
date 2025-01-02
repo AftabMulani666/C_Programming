@@ -14,3 +14,4 @@ printf("Your Division Answer IS %d\n",a/b);
 // It Can Provide output Of all Mathematical Operators
     return 0;
 }
+//Thanks
