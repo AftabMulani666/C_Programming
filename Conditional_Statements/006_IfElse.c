@@ -19,3 +19,4 @@ else if(subject==3)
 }
     return 0;
 }
+//Thanks 
